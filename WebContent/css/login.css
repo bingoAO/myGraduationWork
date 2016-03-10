@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+
+#wrapper{
+	width:100%;
+}
+
+#header{
+	background-image:url(../asserts/duola.jpg);
+	background-repeat:no-repeat;
+	max-width:1400px;
+	height:380px;
+	background-position:center;
+}
+
+#logotext{
+	width:"100%";
+	position:relative;
+	top:300px;
+	left:300px;
+}
+
+#login{
+	margin:0 auto;
+	width:600px;
+	text-align:center;
+	color:black;
+}
+
+#login_button{
+	float:right;
+}

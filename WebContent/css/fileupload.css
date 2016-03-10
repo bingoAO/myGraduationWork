@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+#wrapper {
+	width: 100%;
+}
+
+#form {
+	width: 200px;
+	background:none;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+}
+
+#addfile {
+	visibility: visible;
+}
+
+#uploadandadd{
+	margin-top: 10px;
+}
